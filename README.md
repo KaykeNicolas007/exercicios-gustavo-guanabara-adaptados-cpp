@@ -1,2 +1,2 @@
-# exercicios-gustavo-guanabara-adaptados-cpp
- Exercícios de Python do Curso em Vídeo adaptados para a linguagem C++.
+# Exercícios Gustavo Guanabara Adaptados para C++
+ Exercícios de Python do Curso em Vídeo -ministrados pelo professor Gustavo Guanabara- adaptados para a linguagem C++.
